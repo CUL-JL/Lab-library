@@ -1,6 +1,7 @@
 # **Lab: Creating a Library with Linked Lists**
 
-[!NOTE] **work in progress**
+>[!NOTE] 
+work in progress
 
 
 ## Requirements
