@@ -1,4 +1,5 @@
 # Lab: Creating a Library with Linked Lists
+### members: Jhosua Lascarro, Dinayker López
 
 This project consists of creating a Python program that simulates a library through a graphical user interface (GUI) using `Tkinter`. The program allows managing books, storing them in lists, and performing various operations on them such as adding, searching, deleting, and displaying books.
 
